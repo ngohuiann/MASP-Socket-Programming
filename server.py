@@ -1,5 +1,3 @@
-# Aaron Stephen (TP041867), Ngo Hui Ann(TP04096), Soo Juson Moy(TP044863)
-
 import tkinter as tk
 import socket
 from tkinter.filedialog import askopenfilename
